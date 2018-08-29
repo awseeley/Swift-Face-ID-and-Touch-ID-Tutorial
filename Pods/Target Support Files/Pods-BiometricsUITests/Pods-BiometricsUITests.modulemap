@@ -1,0 +1,6 @@
+framework module Pods_BiometricsUITests {
+  umbrella header "Pods-BiometricsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
